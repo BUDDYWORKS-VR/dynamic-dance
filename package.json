@@ -1,0 +1,14 @@
+{
+  "name" : "wtf.buddyworks.dyndance",
+  "displayName" : "BUDDYWORKS Dynamic Dance",
+  "version" : "0.0.1",
+  "unity" : "2022.3",
+  "description" : "Dynamic dance system for Desktop use.",
+  "author": {
+    "name": "BUDDYWORKS",
+    "email": "hi@buddyworks.wtf"
+  },
+  "vpmDependencies" : {
+    "com.vrchat.avatars" : "3.x.x"
+  }
+}
