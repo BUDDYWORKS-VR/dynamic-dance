@@ -7,10 +7,10 @@ on:
     paths: package.json
 
 env:
-  packageName: "wtf.buddyworks.PACKAGE"
-  packagePath: "Packages/wtf.buddyworks.PACKAGE"
-  packageFileName: "BUDDYWORKS_"
-  packageReleaseName: "BUDDYWORKS "
+  packageName: "wtf.buddyworks.dyndance"
+  packagePath: "Packages/wtf.buddyworks.dyndance"
+  packageFileName: "BUDDYWORKS_DynamicDance"
+  packageReleaseName: "BUDDYWORKS Dynamic Dance"
 
 permissions:
   contents: write
